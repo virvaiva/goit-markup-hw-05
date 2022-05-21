@@ -808,15 +808,17 @@ img {
 }
 
 
-/* .filtr-link:hover .text-overlay,
-.filtr-link:focus .overlay
+.filtr-link:hover .card-filtr,
+.filtr-link:focus .card-filtr
  {
-    opacity: 1;
+    transform: translateY(0);
+    /* opacity: 1;
+    
 
     transition: color var(--anim);
-    transition: background-color var(--anim);
+    transition: background-color var(--anim); */
     
-} */
+}
 
 
 
